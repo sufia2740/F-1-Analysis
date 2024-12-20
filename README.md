@@ -1,6 +1,8 @@
 # F-1-Analysis
 A data-driven exploration of over 1,000 Formula 1 race records, providing insights into race performance and trends through SQL-based data analysis and interactive visualizations in Tableau.
 
+![image](https://github.com/user-attachments/assets/9b6861a3-63a4-4f9f-957b-b6442636c3cd)
+
 ## Project Overview
 This project combines the power of SQL for data analysis, Tableau for visualization, and PowerPoint for presentation to deliver actionable insights from Formula 1 race data.
 
